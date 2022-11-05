@@ -1,11 +1,13 @@
-                                        Act Before inspiration
-    Procrastination is about, postponing what i have to do, or postponing what i need to do,
-or postpoing what i want to do. There is a lot of research on procrastination. What the research
-show is that, people who procrastinate and procrastination, is about the lack of energy. It's about
-the lack of desire to do things.
-    People who have procrastination in their mind believe that motivation or energy or inspiration needs
-to come before action. I first have to have energy, and I have to have the desire, and i first have to be
-inspiration in order to act. Inspiration come before action. This is what people who procrastinate believe
-so they wait to have that energy. They wait until the time when they really want to do something.
-    And then when they are ready, or when they have no choice they do it, but they continute to procrastinate.
-Now procrastinator account for about 80% of population. So most people in the world are procrastinator self proclaimed.
+                                        Act Before Inspiration
+    Procrastination is about postponing what i have to do, or postponing what i need to do, or postpoing what i want to do. There is a lot of research on procrastination. What the research show is that people who procrastinate and procrastination, is about the lack of energy. It's about the lack of desire to do things.
+    拖延症是关于推迟我必须要做的事情，或者推迟我需要去做的事情，或者推迟我想要去做的事情。有很多关于拖延症的研究。研究表明, 拖延的人和拖延症, 是关于缺乏能量，是关于缺乏做事的欲望。
+    People who have procrastination in their mind believe that motivation or energy or inspiration needs to come before action. I first have to have energy, and I first have to the desire, and i first have to be inspiration in order to act. Inspiration come before action. This is what people who procrastinate believe. So they wait to have that energy. They wait until the time when they really want to do something.
+   有拖延症的人相信，动机 能量或者灵感要先于行动。我首先要有能量, 我首先要有欲望，我首先要有灵感才能行动,灵感来了才行动.这就是拖延的人所相信的。所以他们等着拥有那种能量。他们等到真正想要做某件事的时候。 
+    And then when they are ready, or when they have no choice they do it, but they continute to procrastinate. Now procrastinator account for about 80% of population. So most people in the world are procrastinator self proclaimed. In other words they say about themselves that there are procrastinator. What do the other 20% to do. How are they different. They do not say to themselves i first have to have energy and then they will come action, or i first have to be inspired and then i will act. or i really want to do something and then i will do it. No! They understand that action needs to come before inspiration. In other words, just do it, act! and then inspiration will come, and energy will come. action create energy. It also depends on some energy. If you had nothing you would't be able to move, but you don't need much. Even a little bit of energy can start an activity. and the activity will be self perpetuating. In other words, the activity will lead to more energy and more activity. And as result of that to more energy and more activity. And on and on and on in an upwards spiral.
+   然后当他们准备好了，或者没有选择的时候才行动，但他们会继续拖延。现在有拖延症的人约占总人口的80%。所以世界上大多数人都自称是拖延者。换句话说 他们说自己是拖延症患者。剩下的20%人口做什么。他们有什么不同。他们不会对自己说 我首先要有能量。然后他们会采取行动,或者我首先必须受到鼓舞，然后我才会采取行动。或者我真的很想做某件事情然后我才会去做。不！他们明白要先行动才会有灵感。换句话说，只要去做它，行动！然后灵感就会来，然后灵感就会来了. 行动创造了能量。当然这也取决于一些能量，如果你什么能量都没有 你就行动不了，但是你不需要太多。即使一点点的能量也可以开始行动，而这项活动会自我延续。换句话说，活动将会导致更多的能量。更多的能量和更多的活动，并以向上的螺旋继续。
+    What happens with procrasinators is they don't act, and they even less energy. And when they have less energy, they are less likely to act. They have less and less in a downward spiral. So energy comes from doing. Now doing what. Ideally things that you are passionate about, ideally things that make you happy, and you absolutely right.
+    拖延症患者的情况是他们不采取行动，他们的能量更能少。当他们有更少的能量时，他们就不太可能采取行动，在螺旋式的下降中，他们拥有的越来越少。所以能量来自于行动。理想的情况下 做你热爱的事情，会让你快乐的事情，你是绝对正确的。
+    Very often we do not pursue those things that make us happy, which is why in addition to the reasearch where we talk about things that us happy. You will also engage in me search. You will experiment. We try things out. So that we can identify those things that will help us fufill our  potential. Whether it's for success or fo happiness. Ideally both.
+    但我们经常不追求哪些让我们幸福的东西，这就是为什么 除了阅读哪些谈论什么事情会让我们幸福的研究。你也会搜索自我。你会去实验，我们去尝试。这样我们就能找到哪些帮助我们发挥潜力的事情。不管是追求成功还是幸福。理想情况下两者都有。
+
+[act before inspiration](https://www.zhihu.com/zvideo/1561994022352015360)
