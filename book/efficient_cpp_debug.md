@@ -45,4 +45,12 @@
     - (gdb) add-symbol-file mm_symbol.o 0xafsafsfasf
     - (gdb) print *(my_struct*) 0xsfsafsafsdf
 
+## 0527
+- 24页到30页
+- 改变执行及其副作用
+- 符号匹配的自动化， window 下由符号存储服务。 linux 下最近有  debuginfod 等工具
+- 后期分析 core dump 核心转存文件
+- 内存保护
+- 断点不工作的一些原因
+
 
