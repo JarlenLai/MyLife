@@ -58,4 +58,21 @@
 - ptmalloc 和 TCmalloc
 - ptmalloc
     - 通过边界标签以及盒子的数据结构来管理堆内存块
-    - 
+    - 快速盒子（fast bin), 特殊盒子-未排序的chunks, 大内存VMM 分配
+    - 在 ptmalloc 中我们称堆为 arena
+- TCmalloc (Thread-Caching Malloc)
+    - 线程缓存
+    - 大小类划分
+    - 内存释放
+    - 跟踪和监控
+    - 页面堆（Page Heap)
+        - 页面 (Page)
+        - 跨度（Span)
+        - 自由跨度列表（Free Span List)
+        - 非空闲跨度列表 （Non-idle Span List）
+- 利用堆元数据打印内存使用状态信息
+
+## 0529 
+43-53 第二章 内存损坏
+
+ 
